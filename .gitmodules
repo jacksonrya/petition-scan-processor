@@ -1,0 +1,3 @@
+[submodule "cv-box-detection"]
+	path = cv-box-detection
+	url = git@github.com:jacksonrya/cv-box-detection.git
