@@ -13,8 +13,9 @@
     "jimp": "^0.16.0"
   },
   "devDependencies": {
-    "@jacksonrya/eslint-config-standard": "^1.1.2",
-    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@jacksonrya/eslint-config-standard": "^1.2.0",
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
     "jest": "^28.1.1",
     "npm": "^8.16.0",
     "ts-node": "^10.9.1",
