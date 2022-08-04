@@ -2,6 +2,9 @@
 scan-samples
 output-test
 
+# Typescript
+built
+
 # Logs
 logs
 *.log
